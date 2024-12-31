@@ -26,8 +26,8 @@ Table of Contents
   - [Acknowledgement](#acknowledgement)
 
 ## Overview
-- This is the official implementation for IEEE S&P 2024 paper "[ODSCAN: Backdoor Scanning for Object Detection Models](https://www.cs.purdue.edu/homes/cheng535/static/papers/sp24_odscan.pdf)".
-- [[video](#overview)\] | \[[slides](#overview)\] | \[[poster](#overview)\]
+- This is the official implementation for IEEE S&P 2024 paper "[ODSCAN: Backdoor Scanning for Object Detection Models](https://ieeexplore.ieee.org/document/10646667)".
+- [[paper](https://www.cs.purdue.edu/homes/cheng535/static/papers/sp24_odscan.pdf)\] | [[video](https://www.youtube.com/watch?v=-hPYXKlVSTM)\] | \[[slides](https://www.cs.purdue.edu/homes/cheng535/static/slides/ODSCAN_slides.pdf)\]
 
 <img src="imgs/overview.png" width="900px"/>
 
